@@ -1,5 +1,3 @@
-# Python functions naming: an algorithm
-____
 ### The Motivation Part
 Well, we all know that clear naming is crucial for readability.
 

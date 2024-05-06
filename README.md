@@ -1,1 +1,2 @@
-# python-functions-naming
+# Python functions naming: an algorithm
+

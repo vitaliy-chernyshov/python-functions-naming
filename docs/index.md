@@ -33,8 +33,9 @@ Below you can see The Naming Algorithm: a connection between common verbs and th
     - Finds appropriate item in data? -> `find`, `search`, `match`
     - Transform data type? -> `<something>_to_<something_else>`
     - None of the above, but still works with data? -> Check one of those: `morph`, `compose`, `prepare`, `extract`, `generate`, `initialize`, `filter`, `map`, `aggregate`, `export`, `import`, `normalize`, `calculate`.
-### The Blacklist
 
+
+### The Blacklist  
 Well, you might be surprised, but I don’t recommend using these verbs in functions names: `get`, `run`, `process`, `make`, `handle`, `do`, `main`, `compare`.
 
 They all are too generic and has a more precise analogue almost always.
